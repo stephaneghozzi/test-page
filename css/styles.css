@@ -11491,8 +11491,46 @@ textarea.form-control-lg {
   src: url("../fonts/Chivo-Light.ttf") format("truetype"); }
 
 @font-face {
+  font-family: "Chivo-Light";
+  src: url("../fonts/Chivo-Regular.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Chivo-Light";
+  src: url("../fonts/Chivo-LightItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Chivo-Light";
+  src: url("../fonts/Chivo-Italic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
   font-family: "Chivo-Regular";
-  src: url("../fonts/Chivo-Regular.ttf") format("truetype"); }
+  src: url("../fonts/Chivo-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Chivo-Regular";
+  src: url("../fonts/Chivo-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Chivo-Regular";
+  src: url("../fonts/Chivo-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Chivo-Regular";
+  src: url("../fonts/Chivo-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
 
 html {
   scroll-behavior: smooth; }
@@ -11501,7 +11539,16 @@ body {
   min-width: 360px;
   font-family: "Chivo-Light";
   color: #121e3d;
-  background-color: white; }
+  background-color: white;
+  text-decoration-thickness: 0.4rem; }
+
+body a {
+  text-decoration: underline;
+  text-decoration: underline;
+  text-decoration-thickness: 0.05em;
+  text-underline-offset: 0.05em;
+  color: inherit;
+  font-size: inherit; }
 
 h2, .h2 {
   font-family: "Chivo-Regular";
@@ -11516,10 +11563,6 @@ h2, .h2 {
 .shifted-anchor {
   padding-top: 10rem;
   margin-top: -10rem; }
-
-body a {
-  text-decoration: underline;
-  color: inherit; }
 
 .navbar-brand {
   font-family: "Chivo-Regular";
@@ -11564,7 +11607,8 @@ body a {
   border-style: solid;
   padding: 0.5em;
   margin: 0.5em;
-  line-height: 3em; }
+  line-height: 3em;
+  border-width: 0.1em 0.1em 0.1em 0.1em; }
 
 .sg-presentation-philosophy {
   padding: 2em;
