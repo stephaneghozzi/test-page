@@ -11488,7 +11488,9 @@ textarea.form-control-lg {
 
 @font-face {
   font-family: "Chivo-Light";
-  src: url("../fonts/Chivo-Light.ttf") format("truetype"); }
+  src: url("../fonts/Chivo-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
 
 @font-face {
   font-family: "Chivo-Light";
@@ -11537,6 +11539,7 @@ html {
 
 body {
   min-width: 360px;
+  min-height: 100vh;
   font-family: "Chivo-Light";
   color: #121e3d;
   background-color: white;
@@ -11549,6 +11552,30 @@ body a {
   text-underline-offset: 0.05em;
   color: inherit;
   font-size: inherit; }
+
+.sg-navbar {
+  font-family: "Chivo-Regular";
+  color: #121e3d;
+  background-color: white; }
+
+.sg-navbar a {
+  text-decoration: none; }
+
+.nav-item {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em; }
+
+.navbar-brand {
+  font-size: 1.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em; }
+
+.sg-nobr {
+  white-space: nowrap; }
 
 h2, .h2 {
   font-family: "Chivo-Regular";
@@ -11563,19 +11590,6 @@ h2, .h2 {
 .shifted-anchor {
   padding-top: 10rem;
   margin-top: -10rem; }
-
-.navbar-brand {
-  font-family: "Chivo-Regular";
-  font-size: 1.5em;
-  padding-left: 1.5em;
-  padding-right: 1.5em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  color: #121e3d; }
-
-.nav-link {
-  font-family: "Chivo-Regular";
-  color: #121e3d; }
 
 .sg-icon {
   height: 1em;
@@ -11658,8 +11672,9 @@ h2, .h2 {
   margin: 0; }
 
 .sg-about-love p {
+  font-size: 0.75rem;
   text-align: center;
-  padding: 2.5em;
+  padding: 4em;
   margin: 0; }
 
 .sg-about-love a {
