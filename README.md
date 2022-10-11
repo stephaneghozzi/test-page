@@ -1,8 +1,8 @@
 # Stéphane Ghozzi's personal website: test repository
 
-Here are the files for the website [https://stephaneghozzi.com](https://stephaneghozzi.com) (which is an alias for stephaneghozzi.github.io)
+The files for the website [https://stephaneghozzi.com](https://stephaneghozzi.com) (which is an alias for stephaneghozzi.github.io)
 
-The source code to generate these files are here: [https://github.com/stephaneghozzi/personal-website](https://github.com/stephaneghozzi/personal-website)
+The source code to generate via Hugo these files are here: [https://github.com/stephaneghozzi/personal-website](https://github.com/stephaneghozzi/personal-website)
 
 ## Licenses
 
