@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on Stéphane Ghozzi</title>
-    <link>https://stephaneghozzi.com/test-page/</link>
+    <link>https://stephaneghozzi.com/</link>
     <description>Recent content in home on Stéphane Ghozzi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://stephaneghozzi.com/test-page/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://stephaneghozzi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link></link>
@@ -81,10 +81,10 @@ This lead me to live and work in five cities in four countries, and speak three 
     
     <item>
       <title>biography</title>
-      <link>https://stephaneghozzi.com/test-page/biography/</link>
+      <link>https://stephaneghozzi.com/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stephaneghozzi.com/test-page/biography/</guid>
+      <guid>https://stephaneghozzi.com/biography/</guid>
       <description>I am an independent data scientist and consultant based in Berlin, Germany. A physics graduate, with PhD, of the École normale supérieure, I have worked as a mathematical modeller, coder and developer in fundamental and applied research. My main domains of expertise are physics, infectious-disease surveillance and epidemiology. Experimental biology and visual arts have also been part of my professional life.
 This lead me to live and work in five cities in four countries, and speak three languages fluently.</description>
     </item>
