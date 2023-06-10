@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stéphane Ghozzi</title>
-    <link>file:///Users/orson/git/personal-website/public/tags/</link>
+    <link>https://stephaneghozzi.com/test-page/tags/</link>
     <description>Recent content in Tags on Stéphane Ghozzi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="file:///Users/orson/git/personal-website/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://stephaneghozzi.com/test-page/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
