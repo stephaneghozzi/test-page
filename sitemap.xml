@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stephaneghozzi.com/biography/</loc>
+    <loc>file:///Users/orson/git/personal-website/public/biography/</loc>
   </url><url>
-    <loc>https://stephaneghozzi.com/categories/</loc>
+    <loc>file:///Users/orson/git/personal-website/public/categories/</loc>
   </url><url>
-    <loc>https://stephaneghozzi.com/</loc>
+    <loc>file:///Users/orson/git/personal-website/public/</loc>
   </url><url>
-    <loc>https://stephaneghozzi.com/tags/</loc>
+    <loc>file:///Users/orson/git/personal-website/public/tags/</loc>
   </url>
 </urlset>

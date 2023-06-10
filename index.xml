@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on Stéphane Ghozzi</title>
-    <link>https://stephaneghozzi.com/</link>
+    <link>file:///Users/orson/git/personal-website/public/</link>
     <description>Recent content in home on Stéphane Ghozzi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://stephaneghozzi.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="file:///Users/orson/git/personal-website/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link></link>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Hello, I am a developer and consultant who helps conceive, set up and run honest data-science projects. This includes: domain research; mathematics, statistics and machine learning; data processing, exploration and visualization. I facilitate and deliver reports and concept notes, code notebooks and packages, interactive graphics.</description>
+      <description>Hello, I am a data scientist at the World Health Organization who helps conceive, set up and run honest data-science projects. This includes: domain research; mathematics, statistics and machine learning; data processing, exploration and visualization. I facilitate and deliver reports and concept notes, code notebooks and packages, interactive graphics.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>I am an independent data scientist and consultant based in Berlin, Germany. A physics graduate, with PhD, of the École normale supérieure, I have worked as a mathematical modeller, coder and developer in fundamental and applied research. My main domains of expertise are physics, infectious-disease surveillance and epidemiology. Experimental biology and visual arts have also been part of my professional life.
+      <description>I am a data scientist at the World Health Organization Hub for Pandemic and Epidemic Intelligence in Berlin, Germany. A physics graduate, with PhD, of the École normale supérieure, I have worked as a mathematical modeller, coder and developer in fundamental and applied research. My main domains of expertise are physics, infectious-disease surveillance and epidemiology. Experimental biology and visual arts have also been part of my professional life.
 This lead me to live and work in five cities in four countries, and speak three languages fluently.</description>
     </item>
     
@@ -81,10 +81,10 @@ This lead me to live and work in five cities in four countries, and speak three 
     
     <item>
       <title>biography</title>
-      <link>https://stephaneghozzi.com/biography/</link>
+      <link>file:///Users/orson/git/personal-website/public/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stephaneghozzi.com/biography/</guid>
+      <guid>file:///Users/orson/git/personal-website/public/biography/</guid>
       <description>I am an independent data scientist and consultant based in Berlin, Germany. A physics graduate, with PhD, of the École normale supérieure, I have worked as a mathematical modeller, coder and developer in fundamental and applied research. My main domains of expertise are physics, infectious-disease surveillance and epidemiology. Experimental biology and visual arts have also been part of my professional life.
 This lead me to live and work in five cities in four countries, and speak three languages fluently.</description>
     </item>
@@ -132,7 +132,8 @@ This lead me to live and work in five cities in four countries, and speak three 
       
       <guid></guid>
       <description>Selected open-source data-science projects are listed here. Partners include the World Health Organization and the Robert Koch Institute. More can be found on GitLab and GitHub.
-A list of scientific publications can be found on Orcid or Google Scholar.</description>
+A list of scientific publications can be found on Orcid or Google Scholar.
+See also the projects of WHO Hub for Pandemic and Epidemic Intelligence, in particular EIOS.</description>
     </item>
     
     <item>
